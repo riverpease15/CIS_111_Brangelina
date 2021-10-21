@@ -1,0 +1,81 @@
+/*
+
+Adobe Garamond Pro Regular
+font-family: adobe-garamond-pro, serif;
+font-weight: 400;
+font-style: normal;
+
+ */
+
+body {
+    font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: "adobe-garamond-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5vw;
+    position: relative;
+    left: -14vw;
+}
+
+.redText {
+    color: #d90606;
+}
+
+.jolie {
+    width: 20vw;
+    object-fit: cover;
+    float: left;
+    margin-left: 6vw;
+}
+
+.pitt {
+    width: 20vw;
+    object-fit: cover;
+    float: right;
+    margin-right: 6vw;
+    position: relative;
+    top: -9vw;
+}
+
+.bodyStuff {
+    position: relative;
+    top: -2vw;
+    left: 2.7vw;
+    line-height: 2vw;
+    font-size: 1.2vw;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    width: 40vw;
+}
+
+.subTitle {
+    font-size: 1.5vw;
+}
+
+.movieImg {
+    display: flex;
+    justify-content: center;
+}
+
+.moviePic {
+    width: 40vw;
+    position: relative;
+    top: -1vw;
+}
+
+.bodyStuff2 {
+    line-height: 2vw;
+    font-size: 1.2vw;
+    text-align: left;
+    width: 40vw;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
