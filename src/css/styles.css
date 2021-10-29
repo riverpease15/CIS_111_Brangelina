@@ -44,12 +44,10 @@ h1 {
 .bodyStuff {
     position: relative;
     top: -2vw;
-    left: 2.7vw;
     line-height: 2vw;
     font-size: 1.2vw;
     text-align: left;
-    display: flex;
-    justify-content: center;
+    margin: auto;
     width: 40vw;
 }
 
@@ -66,6 +64,7 @@ h1 {
     width: 40vw;
     position: relative;
     top: -1vw;
+    margin: auto;
 }
 
 .bodyStuff2 {
